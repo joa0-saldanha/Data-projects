@@ -9,3 +9,5 @@ The projects will be mostly developed using the following technologies:
 • Pandas: data analysis;
 • Apache Airflow: data pipeline development and orchestration;
 • Docker: containerized development.
+
+
