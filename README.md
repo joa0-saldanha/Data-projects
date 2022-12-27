@@ -4,7 +4,7 @@ Este portfólio será focado no meu desenvolvimento em engenharia de dados, cont
 
 Os projetos serão majoritariamente desenvolvidos utilizando as seguintes tecnologias:
 
-• Linguagem de programação: Python
+• Linguagem de programação: Python;
 • Apache Spark / PySpark: análise e manipulação de dados;
 • Pandas: análise de dados;
 • Apache Airflow: desenvolvimento e orquestração de pipeline de dados;
