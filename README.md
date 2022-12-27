@@ -4,11 +4,11 @@ This portfolio will focus on my development in data engineering, containing all 
 
 The projects will be mostly developed using the following technologies:
 
-• Programming language: Python;
-• Apache Spark / PySpark: data analysis and manipulation;
-• Pandas: data analysis;
-• Apache Airflow: data pipeline development and orchestration;
-• Docker: containerized development.
+• Programming language: Python;<br>
+• Apache Spark / PySpark: data analysis and manipulation;<br>
+• Pandas: data analysis;<br>
+• Apache Airflow: data pipeline development and orchestration;<br>
+• Docker: containerized development.<br>
 
 
 
