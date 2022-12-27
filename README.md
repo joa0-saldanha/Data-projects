@@ -1,4 +1,4 @@
-# Data-projects
+# Projetos de engenharia de dados
 
 Este portfólio será focado no meu desenvolvimento em engenharia de dados, contendo todos os projetos e estudos que serão trabalhados durante o tempo. O portfólio será atualizado de acordo com minha evolução nos projetos.
 
