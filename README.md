@@ -12,6 +12,6 @@ The projects will be mostly developed using the following technologies:
 
 
 
-# •1 - League of Legends Champions Analysis
+*•1 - League of Legends Champions Analysis*
 
 
